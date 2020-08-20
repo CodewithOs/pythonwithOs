@@ -26,3 +26,5 @@ print (age)
 age = str( age * 2 )
 
 print(age * 2)
+
+print(age * 8)
